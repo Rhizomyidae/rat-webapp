@@ -32,7 +32,7 @@ export default ({ request }) => ({
    */
   USER_CHECK_TOKEN () {
     return request({
-      url: '/api/user/check_token',
+      url: '/api/user/check-token',
       method: 'post'
     })
   },
