@@ -1,5 +1,5 @@
 {
-  "name": "d2-admin-xiya-go-cms",
+  "name": "rat-webapp",
   "version": "1.10.0",
   "scripts": {
     "serve": "vue-cli-service serve --open",

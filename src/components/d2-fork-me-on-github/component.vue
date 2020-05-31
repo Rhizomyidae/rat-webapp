@@ -14,7 +14,7 @@
 <template>
   <a class="d2-fork-me-on-github" target="blank" href="https://github.com/d2-projects/d2-admin-xiya-go-cms">
     <!-- image from https://github.com/d2-projects/d2-ribbons -->
-    <img src="./image/darkblue@2x.png" alt="Fork me on GitHub">
+<!--    <img src="./image/darkblue@2x.png" alt="Fork me on GitHub">-->
   </a>
 </template>
 

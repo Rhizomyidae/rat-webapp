@@ -11,11 +11,11 @@
         class="page-login--content"
         flex="dir:top main:justify cross:stretch box:justify">
         <div class="page-login--content-header">
-          <p class="page-login--content-header-motto">时间是一切财富中最宝贵的财富</p>
+          <p class="page-login--content-header-motto"></p>
         </div>
         <div class="page-login--content-main" flex="dir:top main:center cross:center">
           <!-- logo -->
-          <img class="page-login--logo" src="./image/logo@2x.png">
+<!--          <img class="page-login&#45;&#45;logo" src="./image/logo@2x.png">-->
           <!-- form -->
           <div class="page-login--form">
             <el-card shadow="never">
@@ -35,27 +35,14 @@
                 <d2-button size="default" type="primary" label="登录" class="button-login"/>
               </d2-tencent-captcha>
             </el-card>
-            <p class="page-login--options" flex="main:justify cross:center">
-              <span><d2-icon name="question-circle"/> 忘记密码</span>
-              <span>注册用户</span>
-            </p>
+<!--            <p class="page-login&#45;&#45;options" flex="main:justify cross:center">-->
+<!--              <span><d2-icon name="question-circle"/> 忘记密码</span>-->
+<!--              <span>注册用户</span>-->
+<!--            </p>-->
           </div>
         </div>
         <div class="page-login--content-footer">
-          <p>
-            <template v-for="(language, index) in $languages">
-              <a
-                :key="language.value"
-                @click="onChangeLocale(language.value)">
-                {{ language.label }}
-              </a>
-              <el-divider
-                :key="language.value"
-                v-if="index !== $languages.length - 1"
-                direction="vertical"/>
-            </template>
-          </p>
-          <p>
+          <p v-if="this.$env.VUE_APP_SWICHER">
             <a href="https://github.com/d2-projects/d2-admin-xiya-go-cms/actions" target="_blank">
               构建于 {{ $env.VUE_APP_BUILD_TIME | timeFormat('YYYY年M月D日 dddd Ah点mm分') }}
               <d2-time-relative :value="$env.VUE_APP_BUILD_TIME"/>
@@ -64,24 +51,6 @@
             <d2-api-base-url-controller>
               切换环境
             </d2-api-base-url-controller>
-          </p>
-          <p>
-            <a href="https://github.com/d2-projects/d2-admin-xiya-go-cms/blob/master/LICENSE" target="_blank">
-              Copyright
-              <d2-icon name="copyright"/>
-              2018
-            </a>
-            <a href="https://github.com/FairyEver" target="_blank">
-              @FairyEver
-            </a>
-            出品
-          </p>
-          <p>
-            <a href="#">帮助</a>
-            <el-divider direction="vertical"/>
-            <a href="#">隐私</a>
-            <el-divider direction="vertical"/>
-            <a href="#">条款</a>
           </p>
         </div>
       </div>
@@ -130,7 +99,7 @@ export default {
     return data
   },
   mounted () {
-    this.timeInterval = setInterval(() => {
+    this.timeIVUE_APP_TITLEnterval = setInterval(() => {
       this.refreshTime()
     }, 1000)
   },
