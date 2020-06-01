@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb055f1-b032-43eb-b936-e6d20c533fac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1civ3bcxk9CcisTdHLO6QpfRo1n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Rhizomyidae\RuoYi-Vue-Plus\ruoyi\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RuoYiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.RuoYiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb055f1-b032-43eb-b936-e6d20c533fac" name="Default Changelist" comment="" />
+      <created>1591024029426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591024029426</updated>
+      <workItem from="1591024031259" duration="702000" />
+      <workItem from="1591024743397" duration="48000" />
+      <workItem from="1591025013460" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2424" height="295" key="GridCell.Tab.0.bottom" timestamp="1591024733495">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="295" key="GridCell.Tab.0.bottom/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733495" />
+    <state width="2424" height="295" key="GridCell.Tab.0.center" timestamp="1591024733495">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="295" key="GridCell.Tab.0.center/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733495" />
+    <state width="2424" height="295" key="GridCell.Tab.0.left" timestamp="1591024733495">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="295" key="GridCell.Tab.0.left/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733495" />
+    <state width="2424" height="295" key="GridCell.Tab.0.right" timestamp="1591024733495">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="295" key="GridCell.Tab.0.right/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733495" />
+    <state width="2424" height="364" key="GridCell.Tab.1.bottom" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.1.bottom/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.1.center" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.1.center/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.1.left" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.1.left/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.1.right" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.1.right/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.2.bottom" timestamp="1591024733491">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.2.bottom/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733491" />
+    <state width="2424" height="364" key="GridCell.Tab.2.center" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.2.center/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.2.left" timestamp="1591024733490">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.2.left/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733490" />
+    <state width="2424" height="364" key="GridCell.Tab.2.right" timestamp="1591024733491">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state width="2424" height="364" key="GridCell.Tab.2.right/0.0.2467.1080@0.0.2467.1080" timestamp="1591024733491" />
+    <state x="1019" y="241" key="RollbackChangesDialog" timestamp="1591024502518">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state x="1019" y="241" key="RollbackChangesDialog/0.0.2467.1080@0.0.2467.1080" timestamp="1591024502518" />
+    <state x="739" y="186" key="SettingsEditor" timestamp="1591025036234">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state x="739" y="186" key="SettingsEditor/0.0.2467.1080@0.0.2467.1080" timestamp="1591025036234" />
+    <state x="1006" y="439" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591024717126">
+      <screen x="0" y="0" width="2467" height="1080" />
+    </state>
+    <state x="1006" y="439" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2467.1080@0.0.2467.1080" timestamp="1591024717126" />
+  </component>
+</project>
