@@ -1,7 +1,7 @@
 export default ({ request }) => ({
   /**
    * @description 参数列表
-   * @description http://yapi.xiya.vip/project/11/interface/api/75
+   * @description http://127.0.0.1/project/11/interface/api/75
    */
   CONFIG_ALL (query = {}) {
     return request({
@@ -12,7 +12,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 参数列表 获取前端或者后端使用的参数列表 无分页
-   * @description http://yapi.xiya.vip/project/11/interface/api/620
+   * @description http://127.0.0.1/project/11/interface/api/620
    */
   CONFIG_FIND (type = 0) {
     return request({
@@ -25,7 +25,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 参数创建
-   * @description http://yapi.xiya.vip/project/11/interface/api/80
+   * @description http://127.0.0.1/project/11/interface/api/80
    */
   CONFIG_CREATE (data) {
     return request({
@@ -36,7 +36,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 参数详情
-   * @description http://yapi.xiya.vip/project/11/interface/api/95
+   * @description http://127.0.0.1/project/11/interface/api/95
    */
   CONFIG_DETAIL (id) {
     return request({
@@ -49,7 +49,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 参数编辑
-   * @description http://yapi.xiya.vip/project/11/interface/api/95
+   * @description http://127.0.0.1/project/11/interface/api/95
    */
   CONFIG_UPDATE (data) {
     return request({
@@ -60,7 +60,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 参数删除
-   * @description http://yapi.xiya.vip/project/11/interface/api/90
+   * @description http://127.0.0.1/project/11/interface/api/90
    */
   CONFIG_DELETE (id) {
     return request({

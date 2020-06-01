@@ -1,7 +1,7 @@
 export default ({ request }) => ({
   /**
    * @description 字典数据列表
-   * @description http://yapi.xiya.vip/project/11/interface/api/75
+   * @description http://127.0.0.1/project/11/interface/api/75
    */
   DICTDATA_ALL (query = {}) {
     return request({
@@ -12,7 +12,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 字典数据创建
-   * @description http://yapi.xiya.vip/project/11/interface/api/80
+   * @description http://127.0.0.1/project/11/interface/api/80
    */
   DICTDATA_CREATE (data) {
     return request({
@@ -23,7 +23,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 字典数据详情
-   * @description http://yapi.xiya.vip/project/11/interface/api/95
+   * @description http://127.0.0.1/project/11/interface/api/95
    */
   DICTDATA_DETAIL (id) {
     return request({
@@ -36,7 +36,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 字典数据编辑
-   * @description http://yapi.xiya.vip/project/11/interface/api/95
+   * @description http://127.0.0.1/project/11/interface/api/95
    */
   DICTDATA_UPDATE (data) {
     return request({
@@ -47,7 +47,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 字典数据删除
-   * @description http://yapi.xiya.vip/project/11/interface/api/90
+   * @description http://127.0.0.1/project/11/interface/api/90
    */
   DICTDATA_DELETE (id) {
     return request({

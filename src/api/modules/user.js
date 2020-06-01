@@ -1,7 +1,7 @@
 export default ({ request }) => ({
   /**
    * @description 登录
-   * @description http://yapi.xiya.vip/project/11/interface/api/10
+   * @description http://127.0.0.1/project/11/interface/api/10
    */
   USER_LOGIN ({
     username = '',
@@ -18,7 +18,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 注销
-   * @description http://yapi.xiya.vip/project/11/interface/api/40
+   * @description http://127.0.0.1/project/11/interface/api/40
    */
   USER_LOGOUT () {
     return request({
@@ -28,7 +28,7 @@ export default ({ request }) => ({
   },
   /**
    * @description Token 校验
-   * @description http://yapi.xiya.vip/project/11/interface/api/15
+   * @description http://127.0.0.1/project/11/interface/api/15
    */
   USER_CHECK_TOKEN () {
     return request({
@@ -38,7 +38,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 查询所有用户
-   * @description http://yapi.xiya.vip/project/11/interface/api/30
+   * @description http://127.0.0.1/project/11/interface/api/30
    */
   USER_ALL (query = {}) {
     return request({
@@ -49,7 +49,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 用户创建
-   * @description http://yapi.xiya.vip/project/11/interface/api/25
+   * @description http://127.0.0.1/project/11/interface/api/25
    */
   USER_CREATE (data) {
     return request({
@@ -60,7 +60,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 用户详情
-   * @description http://yapi.xiya.vip/project/11/interface/api/240
+   * @description http://127.0.0.1/project/11/interface/api/240
    */
   USER_DETAIL (id) {
     return request({
@@ -73,7 +73,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 用户编辑
-   * @description http://yapi.xiya.vip/project/11/interface/api/240
+   * @description http://127.0.0.1/project/11/interface/api/240
    */
   USER_UPDATE (data) {
     return request({
@@ -84,7 +84,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 用户删除
-   * @description http://yapi.xiya.vip/project/11/interface/api/155
+   * @description http://127.0.0.1/project/11/interface/api/155
    */
   USER_DELETE (id) {
     return request({

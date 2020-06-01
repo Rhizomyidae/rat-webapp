@@ -1,7 +1,7 @@
 export default ({ request }) => ({
   /**
    * @description 上传图片
-   * @description http://yapi.xiya.vip/project/11/interface/api/235
+   * @description http://127.0.0.1/project/11/interface/api/235
    */
   UPLOAD_IMAGE (image) {
     const data = new FormData()
@@ -17,7 +17,7 @@ export default ({ request }) => ({
   },
   /**
    * @description 上传图片到百度 OOS
-   * @description http://yapi.xiya.vip/project/11/interface/api/460
+   * @description http://127.0.0.1/project/11/interface/api/460
    */
   UPLOAD_IMAGE_OOS (image) {
     const data = new FormData()
