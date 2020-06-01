@@ -119,7 +119,7 @@ pagehelper:
 
 # Swagger配置
 swagger:
-  # 是否开启swagger
+  # 是否开启swaggerRat
   enabled: true
   # 请求前缀
   pathMapping: /dev-api
